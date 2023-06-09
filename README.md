@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirupamkumar&label=Profile%20views&color=0e75b6&style=flat" alt="nirupamkumar" /> </p>
 
-
-
+- 👀 I’m interested Programming mainly in C#, C++, & Solidity
 - 🌱 I’m currently learning **Unreal Engine, Blockchain.**
 - 📫 How to reach me **mundra.nirupamkumar@gmail.com**
 
@@ -20,7 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirupamkumar&show_icons=true&locale=en" alt="nirupamkumar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirupamkumar&" alt="nirupamkumar" /></p>
 
 <!---
 nirupamkumar/nirupamkumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
