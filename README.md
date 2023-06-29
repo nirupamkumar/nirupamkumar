@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nirupam Kumar. Mundra</h1>
-<h3 align="center">A passionate game developer from Croatia</h3>
+<h3 align="center">Aspiring Innovator and Application Developer | Passionate about Software Engineering and Game Development | From Croatia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nirupamkumar&label=Profile%20views&color=0e75b6&style=flat" alt="nirupamkumar" /> </p>
 
 - 👀 I’m interested Programming mainly in C#, C++, & Solidity
 - 🌱 I’m currently learning **Unreal Engine, Blockchain.**
