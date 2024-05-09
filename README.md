@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nirupam Kumar. Mundra</h1>
 <h3 align="center">Aspiring Innovator and Application Developer | Passionate about Software Engineering and Game Development | From Croatia</h3>
 
-- 👀 I’m interested Programming mainly in C#, C++, & Solidity
-- 🌱 I’m currently learning **Unreal Engine, Blockchain.**
+- 👀 I’m interested Programming mainly in C#, Python, SQL
+- 🌱 I’m currently learning **Django.**
 - 📫 How to reach me **mundra.nirupamkumar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
