@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nirupam Kumar. Mundra</h1>
 <h3 align="center">Aspiring Innovator and Application Developer | Passionate about Software Engineering and Game Development | From Croatia</h3>
 
-- 👀 I’m interested Programming mainly in C#, Python, SQL
-- 🌱 I’m currently learning **Django.**
+- 👀 Teckstack: C#, Python, SQL, HTML, CSS, Django, PostgreSQL, Docker, Jenkins, Postman
 - 📫 How to reach me **mundra.nirupamkumar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
