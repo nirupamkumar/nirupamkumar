@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nirupam Kumar. Mundra</h1>
 <h3 align="center">Aspiring Innovator and Application Developer | Passionate about Software Engineering and Game Development | From Croatia</h3>
 
-- 👀 Tech Stack: .NET (MAUI, Blazor, ASP.NET Core), C#, Python, SQL (SQL Server, PostgreSQL), HTML, CSS, Docker, Jenkins, Azure
+- 👀 Tech Stack: .NET (MAUI, Blazor, ASP.NET Core), C#, Python, SQL (SQL Server), HTML, CSS, Docker, Jenkins, Azure
 - 📫 How to reach me **mundra.nirupamkumar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
